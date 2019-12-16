@@ -1,2 +1,3 @@
 Sample test
-Add from test branch
+Add from test branch and master
+
